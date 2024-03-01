@@ -1,5 +1,5 @@
-FROM golang:1.20
+FROM golang:1.22
 LABEL authors="jetbrains.user"
 
 
-EXPOSE 8000
+#EXPOSE 8000
